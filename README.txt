@@ -1,6 +1,11 @@
-Open Msg È um aplicativo usado para enviar mensagem desenvolvido
-em Java que n„o depende de conex„o com a internet para que
+Open Msg √© um aplicativo usado para enviar mensagem desenvolvido em Java que n√£o depende de conex√£o com a internet para que
 funcione, mas somente estar conectado em um servidor Open Msg Server. Open Msg pode ser utilizado em empresas que precisam
-que seus colaboradores continuem se comunicando mesmo que a 
-conex„o com a internet fique indisponÌvel por algum tempo.
-Diferente de outras aplicaÁıes conhecidas para envio de mensagens, este n„o determina limite de caracteres por mensagens, o que viabiliza a envio de grandes quantidades de caracteres, assim sendo o limite È a memÛria RAM disponÌvel no dispositivo em execuÁ„o. Com este aplicativo, vocÍ poder· visualizar status de todos os contatos adicionados com sua interface gr·fica principal. Tendo algum contato online, È possÌvel clicar duas vezes em seu status para conseguir enviar mensagens de texto. Para os Desenvolvedores que querem ou precisam adicionar novas funcionalidades neste aplicativo, digo que n„o ter„o problemas, j· que o Open Msg est· implementado em linguagem Java, que È uma linguagem de programaÁ„o para desenvolvimento de aplicaÁıes muito popular. Para quem considera produtividade muito importante, ent„o eu recomendo que n„o deixe de usar as taclas de atalho Ctrl + Enter para enviar a mensagem.
+que seus colaboradores continuem se comunicando mesmo que a conex√£o com a internet fique indispon√≠vel por algum tempo.
+Diferente de outras aplica√ß√µes conhecidas para envio de mensagens, este n√£o determina limite de caracteres por mensagens, 
+o que viabiliza a envio de grandes quantidades de caracteres, assim sendo o limite √© a mem√≥ria RAM dispon√≠vel no dispositivo 
+em execu√ß√£o. Com este aplicativo, voc√™ poder√° visualizar status de todos os contatos adicionados com sua interface gr√°fica 
+principal. Tendo algum contato online, √© poss√≠vel clicar duas vezes em seu status para conseguir enviar mensagens de texto.
+Para os Desenvolvedores que querem ou precisam adicionar novas funcionalidades neste aplicativo, digo que n√£o ter√£o problemas, 
+j√° que o Open Msg est√° implementado em linguagem Java, que √© uma linguagem de programa√ß√£o para desenvolvimento de aplica√ß√µes 
+muito popular. Para quem considera produtividade muito importante, ent√£o eu recomendo que n√£o deixe de usar as taclas de atalho
+Ctrl + Enter para enviar a mensagem.
