@@ -1,4 +1,5 @@
-Open Msg é um aplicativo usado para enviar mensagem desenvolvido em Java que não depende de conexão com a internet para que
+#O que é OpenMsg?
+OpenMsg é um aplicativo usado para enviar mensagem desenvolvido em Java que não depende de conexão com a internet para que
 funcione, mas somente estar conectado em um servidor Open Msg Server. Open Msg pode ser utilizado em empresas que precisam
 que seus colaboradores continuem se comunicando mesmo que a conexão com a internet fique indisponível por algum tempo.
 Diferente de outras aplicações conhecidas para envio de mensagens, este não determina limite de caracteres por mensagens, 
