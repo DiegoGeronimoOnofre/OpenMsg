@@ -10,3 +10,9 @@ Para os Desenvolvedores que querem ou precisam adicionar novas funcionalidades n
 já que o Open Msg está implementado em linguagem Java, que é uma linguagem de programação para desenvolvimento de aplicações 
 muito popular. Para quem considera produtividade muito importante, então eu recomendo que não deixe de usar as taclas de atalho
 Ctrl + Enter para enviar a mensagem.
+
+Site atual do Desenvolvedor: http://tecnologiadigital.net
+
+Email: diego@tecnologiadigital.net
+
+Email: diegogeronimoonofre@outlook.com
