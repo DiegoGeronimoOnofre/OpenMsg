@@ -1,33 +1,33 @@
-LEIA COM ATEN«√O!
+LEIA COM ATEN√á√ÉO!
 
 Desenvolvedor: Diego Geronimo D' Onofre 
 
 
 Web Site: http://tecnologiadigital.net
 Email: diego@tecnologiadigital.net
-Email: contatodiegoti@gmail.com
+Email: diegogeronimoonofre@outlook.com
 
 
-Este software na vers„o atual, funciona 
-somente em redes internas, onde n„o se 
+Este software na vers√£o atual, funciona 
+somente em redes internas, onde n√£o se 
 faz uso de NAT (ou tecnologias semelhantes)
-como forma de comunicaÁ„o.
+como forma de comunica√ß√£o.
 
 Este aplicativo precisa ser executado
 como administrador para que funcione corretamente.
 
-Abaixo È listado as tecnologias para
+Abaixo √© listado as tecnologias para
 o correto funcionamento dos aplicativos Servidor e Cliente.
 
 Aplicativo servidor:
- * Java Standard Edition vers„o 6 ou superior
+ * Java Standard Edition vers√£o 6 ou superior
  * Firebird 2.1 Server Manager
 
 Aplicativo cliente:
- * Java Standard Edition vers„o 6 ou superior
+ * Java Standard Edition vers√£o 6 ou superior
 
-N„o h· garantia de funcionamento
-dos aplicativos caso as versıes das tecnologias 
+N√£o h√° garantia de funcionamento
+dos aplicativos caso as vers√µes das tecnologias 
 instaladas sejam diferentes das tecnologias requeridas.
  
 
