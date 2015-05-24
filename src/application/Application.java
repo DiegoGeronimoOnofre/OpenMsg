@@ -71,7 +71,7 @@ public class Application
         
         public static final String APPLICATION_DEVELOPER = "Diego Geronimo D Onofre";
         
-        public static final String CONTACT_EMAIL1 = "diego@tecnologiadigital.net";  
+        public static final String CONTACT_EMAIL1 = "*";  
         
         public static final String CONTACT_EMAIL2 = "diegogeronimoonofre@outlook.com";   
         
