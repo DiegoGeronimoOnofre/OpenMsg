@@ -12,11 +12,3 @@ muito popular. Para quem considera produtividade muito importante, então eu rec
 Ctrl + Enter para enviar a mensagem.
 
 Link para o servidor:https://github.com/DiegoGeronimoOnofre/OpenMsg-Server
-
-Site atual do Desenvolvedor: http://tecnologiadigital.net
-
-Email: diego@tecnologiadigital.net
-
-Email: diegogeronimoonofre@outlook.com
-
-Doações podem serem feitas pelo Site atual do Desenvolvedor.
