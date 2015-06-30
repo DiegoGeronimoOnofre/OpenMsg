@@ -13,4 +13,6 @@ Ctrl + Enter para enviar a mensagem.
 
 Link para o servidor:https://github.com/DiegoGeronimoOnofre/OpenMsg-Server
 
-Facebook:https://www.facebook.com/diegogeronimoonofre
+channel https://www.youtube.com/user/cursostd
+
+facebook https://www.facebook.com/diegogeronimoonofre
