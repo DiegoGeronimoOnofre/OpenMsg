@@ -11,8 +11,10 @@ já que o Open Msg está implementado em linguagem Java, que é uma linguagem de
 muito popular. Para quem considera produtividade muito importante, então eu recomendo que não deixe de usar as taclas de atalho
 Ctrl + Enter para enviar a mensagem.
 
-Link para o servidor:https://github.com/DiegoGeronimoOnofre/OpenMsg-Server
+Perfil facebook: https://www.facebook.com/diegogeronimoonofre
 
-channel https://www.youtube.com/user/cursostd
+Canal Youtube: https://www.youtube.com/user/cursostd
 
-facebook https://www.facebook.com/diegogeronimoonofre
+Servidor: https://github.com/DiegoGeronimoOnofre/OpenMsg-Server
+
+
