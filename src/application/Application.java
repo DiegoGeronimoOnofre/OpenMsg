@@ -54,6 +54,14 @@ import javax.swing.UIManager;
 
 import static javax.swing.JOptionPane.showMessageDialog;
 
+/**
+*
+* @author   Diego Geronimo Onofre
+* @channel  https://www.youtube.com/user/cursostd
+* @facebook https://www.facebook.com/diegogeronimoonofre
+* @Github   https://github.com/DiegoGeronimoOnofre
+*/
+
 public class Application
 {
         /*A variável mainPath deve ser
